@@ -5,7 +5,7 @@ import mens_img from "./mens_img.png";
 let all_product = [
   {
     id: 1,
-    name: "Kids",
+    name: `Kids T-Shirt & Shorts Set`,
     category: "kid",
     image: kid_img,
     new_price: 11.0,
@@ -13,7 +13,7 @@ let all_product = [
   },
   {
     id: 2,
-    name: "Kids 2",
+    name: `Kids T-Shirt & Shorts Set`,
     category: "kid",
     image: kid_img,
     new_price: 12.0,
@@ -21,7 +21,7 @@ let all_product = [
   },
   {
     id: 3,
-    name: "Kids 2",
+    name: `Kids T-Shirt & Shorts Set`,
     category: "kid",
     image: kid_img,
     new_price: 12.0,
@@ -29,7 +29,7 @@ let all_product = [
   },
   {
     id: 4,
-    name: "Kids 2",
+    name: `Kids T-Shirt & Shorts Set`,
     category: "kid",
     image: kid_img,
     new_price: 12.0,
@@ -37,7 +37,7 @@ let all_product = [
   },
   {
     id: 5,
-    name: "Kids 2",
+    name: `Kids T-Shirt & Shorts Set`,
     category: "kid",
     image: kid_img,
     new_price: 12.0,
@@ -85,7 +85,7 @@ let all_product = [
   },
   {
     id: 11,
-    name: `mens`,
+    name: `Men brown leather shoes`,
     category: "mens",
     image: mens_img,
     new_price: 5.0,
@@ -93,7 +93,7 @@ let all_product = [
   },
   {
     id: 12,
-    name: `mens`,
+    name: `Men brown leather shoes`,
     category: "mens",
     image: mens_img,
     new_price: 5.0,
@@ -101,7 +101,7 @@ let all_product = [
   },
   {
     id: 13,
-    name: `mens`,
+    name: `Men brown leather shoes`,
     category: "mens",
     image: mens_img,
     new_price: 5.0,
@@ -109,7 +109,7 @@ let all_product = [
   },
   {
     id: 14,
-    name: `mens`,
+    name: `Men brown leather shoes`,
     category: "mens",
     image: mens_img,
     new_price: 5.0,
@@ -117,7 +117,7 @@ let all_product = [
   },
   {
     id: 15,
-    name: `mens`,
+    name: `Men brown leather shoes`,
     category: "mens",
     image: mens_img,
     new_price: 5.0,
